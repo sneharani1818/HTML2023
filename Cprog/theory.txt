@@ -1,2 +1,13 @@
 #include <stdio.h>: is a header file which let us work with predefined functions such as printf()
 printf(): a predefined function used to display output on screen
+
+Rules for identifiers or naming functions:
+1. Each name must be unique
+2. Can be short or descriptive; x, age...
+3. Can contain letters, digits, and underscore
+4. Can begin with letter or underscore
+5. Case sensitive
+6. Cannot contain any other special character
+7. Keywords/reserved words cannot be used as identifiers
+
+Displaying decimal digits acc to our precision: printf("%.2f",x); This will print upto 2 decimal precision.
