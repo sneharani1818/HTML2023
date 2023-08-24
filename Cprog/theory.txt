@@ -1,0 +1,2 @@
+#include <stdio.h>: is a header file which let us work with predefined functions such as printf()
+printf(): a predefined function used to display output on screen
