@@ -11,3 +11,6 @@ Rules for identifiers or naming functions:
 7. Keywords/reserved words cannot be used as identifiers
 
 Displaying decimal digits acc to our precision: printf("%.2f",x); This will print upto 2 decimal precision.
+
+Constants can be declared by using const keyword.. const int PI=3.14;
+While declaring constants, its value must be given at the time of declaration.
