@@ -18,3 +18,6 @@ While declaring constants, its value must be given at the time of declaration.
 Operators: Arithmetic, Logical,Short-hand, Comparison, sizeof
 sizeof: tells the memory size in bytes, of a data type
 To print size, we use %lu instead of %d. This is because compiler expects sizeof to return long unsigned integer
+
+bool data type: #include <stdbool.h>
+It can take any numerical values, true or false. Only 0 is false. Rest int are true/1.
