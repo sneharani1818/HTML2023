@@ -14,3 +14,7 @@ Displaying decimal digits acc to our precision: printf("%.2f",x); This will prin
 
 Constants can be declared by using const keyword.. const int PI=3.14;
 While declaring constants, its value must be given at the time of declaration.
+
+Operators: Arithmetic, Logical,Short-hand, Comparison, sizeof
+sizeof: tells the memory size in bytes, of a data type
+To print size, we use %lu instead of %d. This is because compiler expects sizeof to return long unsigned integer
