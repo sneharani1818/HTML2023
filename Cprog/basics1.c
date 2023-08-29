@@ -42,4 +42,19 @@ int main()
 
     //sizeOf operator
     printf("Size of x: %lu", sizeof(a));
+
+    bool t=true;
+    bool f=false;
+    printf("%d\n",t);
+    printf("%d\n",f);
+    printf("%d\n",1==2);
+    printf("%d\n",5/2!=0);
+    t=0;
+    printf("%d\n",t);
+    t=77;
+    printf("%d\n",t);
+    t=-1;
+    printf("%d\n",t);
+    t=1.6;
+    printf("%d\n",t);
 }
